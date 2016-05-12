@@ -1,1 +1,1 @@
-# CSS-Basics-Laptops
+Homerok from Telerik Academy. Use CSS to recreate the image without using tables.
